@@ -13,8 +13,8 @@ function Portfolio(props) {
 
     const [dataBlock] = useState(
         {
-            subheading: 'Join NFT Portfolio',
-            heading: 'Become a Cyfonii Player Now',
+            subheading: 'Neo Great Line - Process',
+            heading: `Take a look at our working process.`,
             
         }
     )
@@ -37,7 +37,7 @@ function Portfolio(props) {
                                         <div key={idx.id} className="portfolio-box">
                                             <div className="step">Step {idx.id}</div>
                                             <div className="icon">
-                                                <img src={idx.img} alt="Cyfonii" />
+                                                <img src={idx.img} alt="NGL" />
                                                     
                                             </div>
                                             <div className="content">
@@ -56,7 +56,7 @@ function Portfolio(props) {
                         <div className="col-xl-6 col-md-6">
                             <div className="portfolio__right">
                                 <div className="image" data-aos="fade-left" data-aos-duration="2000">
-                                    <img src={img} alt="cyfonii" />
+                                    <img src={img} alt="NGL" />
                                 </div>
                             </div>
                         </div>

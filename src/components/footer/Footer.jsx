@@ -61,18 +61,18 @@ function Footer(props) {
                             </div>
 
                             <div className="footer__bottom">
-                                <Link to="/" className="logo"><img src={logo} alt="Cyfonii" /></Link>
+                                <Link to="/" className="logo"><img src={logo} alt="NGL" style={{ height: "45px" }} /></Link>
 
                                 <div className="center mb--30">
                                     <ul className="list">
                                         <li><Link to="/">Home</Link></li>
-                                        <li><Link to="/nfts">Explore</Link></li>
-                                        <li><Link to="/about">About</Link></li>
-                                        <li><Link to="/nfts">Collections</Link></li>
-                                        <li><Link to="/team">Team</Link></li>
-                                        <li><Link to="/contact">Contact</Link></li>
+                                        <li><Link to="/">Explore</Link></li>
+                                        <li><Link to="/">About</Link></li>
+                                        <li><Link to="/">Collections</Link></li>
+                                        <li><Link to="/">Team</Link></li>
+                                        <li><Link to="/">Contact</Link></li>
                                     </ul>
-                                    <p>Copyright © 2022, Cyfonii. Designed by Themesflat</p>
+                                    <p>Copyright © 2022, NGL. All Right Reserved</p>
                                 </div>
                                 <ul className="list-social">
                                     <li><Link to="#">

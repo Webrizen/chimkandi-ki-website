@@ -16,7 +16,7 @@ function Faqs(props) {
         {
             subheading: 'FAQs',
             heading: 'Frequently Aksed Questions',
-            desc1: 'Below is a list of frequently asked questions and answers from partners and 3D artist',
+            desc1: 'Below is a list of frequently asked questions and answers from partners and Developers',
             desc2:'Please check this FAQ first before contacting us.'
             
         }
@@ -25,22 +25,21 @@ function Faqs(props) {
     const [dataTab] = useState([
         {
             id: 1,
-            title: 'Cryptocurrency',
+            title: 'Artificial Intelligence',
         },
         {
             id: 2,
-            title: 'NFT Token',
+            title: 'Blockchain Technology',
         },
         {
             id: 3,
-            title: 'Collection',
+            title: 'Web Development',
         },
         {
             id: 4,
-            title: 'Crypto Trading',
+            title: 'Digital Marketing',
         },
-
-    ]);
+    ]);    
 
     return (
         <section className="faq">

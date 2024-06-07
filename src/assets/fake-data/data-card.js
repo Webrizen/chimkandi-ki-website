@@ -1,7 +1,7 @@
 
-import img1 from '../images/layouts/banner-01.png'
-import img2 from '../images/layouts/banner-02.png'
-import img3 from '../images/layouts/banner-03.png'
+import img1 from '../images/banner-01.png'
+import img2 from '../images/banner-02.png'
+import img3 from '../images/banner-03.png'
 
 import avt from '../images/layouts/avt-05.png'
 

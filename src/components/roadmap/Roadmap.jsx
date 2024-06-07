@@ -14,7 +14,7 @@ function Roadmap(props) {
     const [dataBlock] = useState(
         {
             subheading: 'Road Map',
-            heading: 'The Journey of Cyfonii NFT',
+            heading: 'The Journey of AI',
         }
     )
 
@@ -49,7 +49,7 @@ function Roadmap(props) {
                                 
                             </div>
                             <div className="button">
-                                <Button title='View Full Road Map' link='/road-map' />
+                                <Button title='View Full Road Map' link='/' />
                             </div>
 
                         </div>

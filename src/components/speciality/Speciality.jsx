@@ -9,8 +9,8 @@ function Speciality(props) {
     const [dataBlock] = useState(
         {
             subheading: 'Our Speciality',
-            heading: 'Complete Solutions for your NFT',
-            desc: 'Cyfonii is the premier marketplace for nifties, which are digital items you can truly own for yourself' ,
+            heading: 'Cultivating Digital Kings',
+            desc: `At Neo Great Line, we are not mere developers and designers; we are strategic architects in the digital realm, orchestrating moves that lead to checkmate for our clients.` ,
             
         }
     )
@@ -31,7 +31,7 @@ function Speciality(props) {
                                 <div key={idx.id} className="col-xl-3 col-md-6">
                                     <div className="speciality-box" >
                                         <div className="icon">
-                                            <img src={idx.img} alt="Cyfonii" />
+                                            <img src={idx.img} alt="NGL" />
                                         </div>
                                         <h5 className="title">{idx.title}</h5>
                                         <p>{idx.desc}</p>

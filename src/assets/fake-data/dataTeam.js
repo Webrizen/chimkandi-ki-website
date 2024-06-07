@@ -13,81 +13,81 @@ const dataTeam = [
     {
         id: 1,
         img: img1,
-        name: 'Jane Cooper',
+        name: 'Karan Hizara',
         position: 'Founder & CEO'
     },
     {
         id: 2,
         img: img2,
-        name: 'Jenny Wilson',
+        name: 'Harshit love modi',
         position: 'Designer'
     },
 
     {
         id: 3,
         img: img3,
-        name: 'Ralph Edwards',
+        name: 'Harshit 💦💦💦 with modi',
         position: 'Developer'
     },
 
     {
         id: 4,
         img: img4,
-        name: 'Cody Fisher',
+        name: 'Ram',
         position: '3D Artist'
     },
 
     {
         id: 5,
         img: img5,
-        name: 'Jane Cooper',
+        name: 'Shoan',
         position: 'Founder & CEO'
     },
     {
         id: 6,
         img: img6,
-        name: 'Jane Cooper',
+        name: 'Chut',
         position: 'Founder & CEO'
     },
     {
         id: 7,
         img: img7,
-        name: 'Jenny Wilson',
+        name: 'Melody',
         position: 'Designer'
     },
 
     {
         id: 8,
         img: img8,
-        name: 'Ralph Edwards',
+        name: 'Harshit tharki',
         position: 'Developer'
     },
 
     {
         id: 9,
         img: img4,
-        name: 'Cody Fisher',
+        name: 'Harshit with kajriwal 💦💦💦 oh ah!',
         position: '3D Artist'
     },
 
     {
         id: 10,
         img: img1,
-        name: 'Jane Cooper',
+        name: 'akash',
         position: 'Founder & CEO'
     },
 
     {
         id: 11,
         img: img2,
-        name: 'Jenny Wilson',
+        name: 'karan duska',
         position: 'Designer'
     },
 
     {
         id: 12,
         img: img3,
-        name: 'Ralph Edwards',
+        name: 'Stephen ki ma ki chu',
         position: 'Developer'
     },
 

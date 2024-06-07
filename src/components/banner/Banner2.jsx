@@ -24,7 +24,7 @@ function Banner2(props) {
 
   const [dataBlock] = useState({
     subheading: "Neo Great Line",
-    heading: "Your gateway to the digital world",
+    heading: "We Craft Dreams That Inspires!",
     desc: "NGL creates custom websites for its clients. Our branding revolves around space, as we produce websites that are as sleek and fast as rockets. Take a look at our creations.",
   });
 
@@ -41,7 +41,7 @@ function Banner2(props) {
               </h6>
               <h2 className="heading pd">{dataBlock.heading}</h2>
               <p className="mb-34">{dataBlock.desc}</p>
-              <Button title="Get Connected" link="/contact" />
+              <Button title="Get Connected" link="/" />
             </div>
 
             <Swiper
@@ -85,10 +85,10 @@ function Banner2(props) {
                     </div>
                     <div className="content">
                       <div className="image">
-                        <img src={idx.img} alt="Cyfonii" />
+                        <img src={idx.img} alt="NGL" />
                       </div>
                       <div className="info d-flex">
-                        <img src={idx.avt} alt="Cyfonii" />
+                        <img src={idx.avt} alt="NGL" />
                         <div>
                           <h6 className="name">{idx.name}</h6>
                           <p>{idx.tag}</p>

@@ -37,11 +37,11 @@ function Home01(props) {
 
             <Team data={dataTeam} />
 
-            <Testimonials data={dataTestimonials} />
+            {/* <Testimonials data={dataTestimonials} /> */}
 
             <Faqs data={dataFaqs} />
 
-            <Create />
+            {/* <Create /> */}
 
             <Footer />
         </div>

@@ -18,8 +18,8 @@ function Project(props) {
 
     const [dataBlock] = useState(
         {
-            subheading: 'Our Speciality',
-            heading: 'OUR COLLECTION',
+            subheading: 'It seems like a dream.',
+            heading: 'OUR AI WORKS',
             
         }
     )
@@ -63,12 +63,12 @@ function Project(props) {
                                             <div className="swiper-slide">
                                                 <div className="project-box">
                                                     <div className="image">
-                                                        <Link to="/nfts">
-                                                            <img src={idx.img} alt="Cyfonii" />
+                                                        <Link to="/">
+                                                            <img src={idx.img} alt="NGL" />
                                                         </Link>
                                                     </div>
                                                     <div className="content">
-                                                        <Link to="/nfts" className="h5 title">{idx.title}</Link>
+                                                        <Link to="/" className="h5 title">{idx.title}</Link>
                                                     </div>
                                                 </div>
                                             </div>

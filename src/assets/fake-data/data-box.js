@@ -10,26 +10,26 @@ const dataBox = [
     {
         id: 1,
         img: img1,
-        title: 'Huge Collection',
-        desc: 'Oficia dese runt mollit anim id est labo met, consectetur adipis'
+        title: 'Innovative Solutions',
+        desc: 'We leverage cutting-edge technologies to deliver unique and effective web design and development solutions.'
     },
     {
         id: 2,
         img: img2,
-        title: 'High Quality',
-        desc: 'Oficia dese runt mollit anim id est labo met, consectetur adipis'
+        title: 'Client-Centered Approach',
+        desc: 'Our strategies are tailored to meet the specific needs of each client, ensuring maximum satisfaction and success.'
     },
     {
         id: 3,
         img: img3,
-        title: 'Top Resource',
-        desc: 'Oficia dese runt mollit anim id est labo met, consectetur adipis'
+        title: 'Continuous Improvement',
+        desc: 'We constantly update our methods and tools to stay ahead of industry trends and provide the best services.'
     },
     {
         id: 4,
         img: img4,
-        title: 'Big Community',
-        desc: 'Oficia dese runt mollit anim id est labo met, consectetur adipis'
+        title: 'Collaborative Efforts',
+        desc: 'We work closely with our clients and within our team to foster creativity and innovation in every project.'
     },
 
 ]
